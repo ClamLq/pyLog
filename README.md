@@ -12,10 +12,9 @@ A Python login system that impliments a Logging function
 
 ## How To Use:
 --------------------------------
-
-*Download Login.py
-*Create Login Or Login key using either
-*Authentication key:
+1.Download Login.py
+2.Create Login Or Login key using either
+  *Authentication key:
 *Make File Called ('YourAuthenticationKey'.txt)
 *Open and Type 'YourAuthenticationKey@ClamLq'
 *Run and Create Account
