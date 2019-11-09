@@ -52,6 +52,10 @@ A Python login system that impliments a Logging function
 
 *There may be errors this is a quick and easy login system for beginners to use in there programs
 
+* SAVE ALL FILES IN THE SAME FOLDER INCLUDING LOGINS 
+
+* Authentication Keys Delete themselfs after acc creation
+
 ________________________________________________________________________________________________________________________
 
 
