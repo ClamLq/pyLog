@@ -46,9 +46,8 @@ if welcome == "y":
                 time.sleep(1)
                 print("\033[1;36;40m[+] Restarting [+]\033")
                 time.sleep(1)
-                ###########################################
-                # Here Import or pass to your landing code#
-                ###########################################
+                import Login
+               
             
             if data == login1+":"+login2:
                 try:
