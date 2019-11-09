@@ -43,9 +43,15 @@ A Python login system that impliments a Logging function
 
 ------------------------------------
 
-#Warnings:
+## Warnings:
 *This is not completely secure as the passwords are not encripted, you can edit the file to encript them if you please
+
+
 *This WONT look nice on Python IDLE as for the txt coloring to work it must be run through cmd , python or server
+
+
 *There may be errors this is a quick and easy login system for beginners to use in there programs
+
+________________________________________________________________________________________________________________________
 
 
