@@ -7,7 +7,6 @@ import pathlib
 import errno
 os.system('cls')
 os.system('cls')
-## Error Handler ##
 currentDT = datetime.datetime.now()
 
 
