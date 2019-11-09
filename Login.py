@@ -8,7 +8,7 @@ import errno
 os.system('cls')
 os.system('cls')
 currentDT = datetime.datetime.now()
-
+cred = 'ClamLq#0001'
 
 
 print("")
@@ -139,10 +139,13 @@ if dataa == key+"@ClamLq":
         print("════════════════════════════ ")
         print(" [+] Time:",currentDT.hour,":",currentDT.minute)
         print("════════════════════════════ ")
+        print("════════════════════════════ ")
+        print(" [+] Made By:",cred)
+        print("════════════════════════════ ")
         print("\n")
         print("                                                      [+] WARNING [+]\n")
         print("\033[1;36;40m[+] By Typing Yes, One Time AuthCode Will be Deleted [+]")
-        accept = input("\033[1;36;40m[+] I Accept The Agreement and Accept that Coderbox Is Not Reliable For Refund Upon forgeting of password [y/n]:\033\033[1;35;40m ")
+        accept = input("\033[1;36;40m[+] I Accept The Agreement and Accept that We are Not Reliable For Refund Upon forgeting of password [y/n]:\033\033[1;35;40m ")
                         
         if accept == 'y':
             file.close()
