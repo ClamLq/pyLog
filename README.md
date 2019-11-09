@@ -15,14 +15,14 @@ A Python login system that impliments a Logging function
 
 *Download Login.py
 *Create Login Or Login key using either
-  *Authentication key:
-    *Make File Called ('YourAuthenticationKey'.txt)
-    *Open and Type 'YourAuthenticationKey@ClamLq'
-    * Run and Create Account
+*Authentication key:
+*Make File Called ('YourAuthenticationKey'.txt)
+*Open and Type 'YourAuthenticationKey@ClamLq'
+*Run and Create Account
  ### Or
-  *Create File Called 'YourUsername.txt'
-  *Open and type:'YourUsername:YourPassword'
-  *Run Script and log in 
+ *Create File Called 'YourUsername.txt'
+ *Open and type:'YourUsername:YourPassword'
+ *Run Script and log in 
 
 ------------------------------------
 
